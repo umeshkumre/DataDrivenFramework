@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49255" started-at="2020-06-01T17:12:01 IST" finished-at="2020-06-01T17:12:51 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49255" started-at="2020-06-01T17:12:01 IST" finished-at="2020-06-01T17:12:51 IST">
+      <class name="com.ddf.testcases.TC_002_ValidateLoginFunctionality">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.ddf.testcases.TC_002_ValidateLoginFunctionality@1786dec2]" name="launchBrowser" is-config="true" duration-ms="9720" started-at="2020-06-01T17:12:03 IST" finished-at="2020-06-01T17:12:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifyLogin(java.lang.String, java.lang.String)[pri:0, instance:com.ddf.testcases.TC_002_ValidateLoginFunctionality@1786dec2]" name="verifyLogin" duration-ms="564" started-at="2020-06-01T17:12:13 IST" data-provider="getData" finished-at="2020-06-01T17:12:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uname1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.ddf.testcases.TC_002_ValidateLoginFunctionality@1786dec2]" name="closeBrowser" is-config="true" duration-ms="748" started-at="2020-06-01T17:12:14 IST" finished-at="2020-06-01T17:12:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.ddf.testcases.TC_002_ValidateLoginFunctionality@1786dec2]" name="launchBrowser" is-config="true" duration-ms="11367" started-at="2020-06-01T17:12:14 IST" finished-at="2020-06-01T17:12:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifyLogin(java.lang.String, java.lang.String)[pri:0, instance:com.ddf.testcases.TC_002_ValidateLoginFunctionality@1786dec2]" name="verifyLogin" duration-ms="1494" started-at="2020-06-01T17:12:26 IST" data-provider="getData" finished-at="2020-06-01T17:12:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uname2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.ddf.testcases.TC_002_ValidateLoginFunctionality@1786dec2]" name="closeBrowser" is-config="true" duration-ms="1899" started-at="2020-06-01T17:12:27 IST" finished-at="2020-06-01T17:12:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.ddf.testcases.TC_002_ValidateLoginFunctionality@1786dec2]" name="launchBrowser" is-config="true" duration-ms="10711" started-at="2020-06-01T17:12:29 IST" finished-at="2020-06-01T17:12:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifyLogin(java.lang.String, java.lang.String)[pri:0, instance:com.ddf.testcases.TC_002_ValidateLoginFunctionality@1786dec2]" name="verifyLogin" duration-ms="696" started-at="2020-06-01T17:12:40 IST" data-provider="getData" finished-at="2020-06-01T17:12:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uname3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.ddf.testcases.TC_002_ValidateLoginFunctionality@1786dec2]" name="closeBrowser" is-config="true" duration-ms="1369" started-at="2020-06-01T17:12:41 IST" finished-at="2020-06-01T17:12:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.ddf.testcases.TC_002_ValidateLoginFunctionality@1786dec2]" name="launchBrowser" is-config="true" duration-ms="7424" started-at="2020-06-01T17:12:42 IST" finished-at="2020-06-01T17:12:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifyLogin(java.lang.String, java.lang.String)[pri:0, instance:com.ddf.testcases.TC_002_ValidateLoginFunctionality@1786dec2]" name="verifyLogin" duration-ms="485" started-at="2020-06-01T17:12:49 IST" data-provider="getData" finished-at="2020-06-01T17:12:50 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uname4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.ddf.testcases.TC_002_ValidateLoginFunctionality@1786dec2]" name="closeBrowser" is-config="true" duration-ms="615" started-at="2020-06-01T17:12:50 IST" finished-at="2020-06-01T17:12:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.ddf.testcases.TC_002_ValidateLoginFunctionality -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
